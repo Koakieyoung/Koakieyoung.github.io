@@ -1801,7 +1801,7 @@ pre code {
   position: relative;
 }
 .posts-collapse .post-content .collection-year::before {
-  background: #5ece8c;
+  background: #bbb;
   margin-left: -4px;
   margin-top: -4px;
   position: absolute;
